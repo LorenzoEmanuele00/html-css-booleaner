@@ -1,9 +1,35 @@
+body{
+    margin: 0;
+}
+
 header{
     background-color: rgb(82, 163, 255);
     background-image: url(../img/pattern.png);
-    padding-top: 6%;
+    background-size: 20%;
+    padding-top: 30px;
 }
 
-header img{
-    width: 30%;
+header div{
+    width: 170px;
 }
+
+main{
+    margin: 5px;
+}
+
+.color1{
+    color: rgb(108, 213, 255);
+}
+
+.subcolor{
+    color: grey;
+}
+
+h1{
+    font-size: 60px;
+}
+
+.margin{
+    margin: 5px;
+}
+
