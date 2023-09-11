@@ -17,19 +17,35 @@ main{
     margin: 5px;
 }
 
-.color1{
-    color: rgb(108, 213, 255);
-}
-
-.subcolor{
-    color: grey;
-}
-
 h1{
     font-size: 60px;
 }
 
 .margin{
-    margin: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
+.subcolor{
+    color: rgb(130, 130, 130);
+}
+
+.color1{
+    color: rgb(108, 213, 255);
+}
+
+.bcolor1{
+    background-color: rgb(82, 163, 255);
+}
+
+.bcolor2{
+    background-color: rgb(82, 226, 255);
+}
+
+.color2{
+    color: rgb(239, 239, 239);
+}
+
+.table-border{
+    border-collapse: collapse;
+}
