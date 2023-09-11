@@ -30,6 +30,10 @@ h1{
     color: rgb(130, 130, 130);
 }
 
+.highlight{
+    background-color: yellow;
+}
+
 .color1{
     color: rgb(108, 213, 255);
 }
@@ -48,4 +52,16 @@ h1{
 
 .table-border{
     border-collapse: collapse;
+}
+
+.container{
+    position: relative;
+    color: rgb(255, 255, 255);
+}
+
+.top{
+    position: absolute;
+    top: 2%;
+    left: 1%;
+    font-size: 30px;
 }
